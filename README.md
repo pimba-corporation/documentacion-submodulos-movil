@@ -1,8 +1,6 @@
 # Documentacion
 
-## Submodulos:
-
-### Internacionalizacion
+## Internacionalizacion
 
 #### URL
 ````text
@@ -14,7 +12,7 @@ lib/src/submodulos/submodulo-internacionalizacion-movil
 ````
 
 
-### Autentificacion (Auth0)
+## Autentificacion (Auth0)
 
 #### URL
 ````text
@@ -26,7 +24,7 @@ lib/src/submodulos/submodulo-auth0-movil
 ````
 
 
-### Transportes
+## Transportes
 
 #### URL
 ````text
@@ -38,7 +36,7 @@ lib/src/submodulos/submodulo-transportes-movil
 ````
 
 
-### Articulos
+## Articulos
 
 #### URL
 ````text
